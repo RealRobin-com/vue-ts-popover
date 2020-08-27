@@ -57,7 +57,7 @@ export default {
     },
     width: {
       type: Number,
-      default: 180
+      default: 181
     },
     pointer: {
       type: Boolean,

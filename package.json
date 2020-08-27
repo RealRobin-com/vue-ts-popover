@@ -1,8 +1,8 @@
 {
-  "name": "vue-js-popover",
+  "name": "vue-ts-popover",
   "description": "Vue.js 2+ popover component",
-  "version": "1.2.1",
-  "author": "euvl <yev.vlasenko@gmail.com>",
+  "version": "1.0.0",
+  "author": "Justin Robinson <justin@realrobin.com>",
   "license": "MIT",
   "private": false,
   "scripts": {
@@ -11,10 +11,10 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/euvl/vue-js-popover.git"
+    "url": "https://github.com/euvl/vue-ts-popover.git"
   },
   "bugs": {
-    "url": "https://github.com/euvl/vue-js-popover/issues"
+    "url": "https://github.com/euvl/vue-ts-popover/issues"
   },
   "keywords": [
     "vue",
@@ -22,7 +22,8 @@
     "tooltip",
     "popover",
     "menu",
-    "button"
+    "button",
+    "typescript"
   ],
   "devDependencies": {
     "@babel/core": "^7.2.2",

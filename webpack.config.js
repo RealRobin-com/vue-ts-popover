@@ -9,7 +9,7 @@ module.exports = {
     path: path.resolve(__dirname, './dist'),
     publicPath: '/dist/',
     filename: 'index.js',
-    library: 'vue-js-popover',
+    library: 'vue-ts-popover',
     libraryTarget: 'umd'
   },
   module: {

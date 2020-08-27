@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/vue-js-popover.svg)](https://badge.fury.io/js/vue-js-popover)
+[![npm version](https://badge.fury.io/js/vue-ts-popover.svg)](https://badge.fury.io/js/vue-ts-popover)
 
 ### Vue.js popover
 
@@ -11,14 +11,14 @@
 Install:
 
 ```bash
-npm install vue-js-popover --save
+npm install vue-ts-popover --save
 ```
 
 Import:
 
 ```javascript
 import Vue from 'vue'
-import Popover from 'vue-js-popover'
+import Popover from 'vue-ts-popover'
 
 Vue.use(Popover)
 ```
@@ -46,7 +46,7 @@ Plugin contains a simple wrapper for `Tooltip`. To use it you will have to:
 Set `tooltip` flag in your `main.js`:
 
 ```javascript
-import VPopover from 'vue-js-popover'
+import VPopover from 'vue-ts-popover'
 Vue.use(VPopover, { tooltip: true })
 ```
 
